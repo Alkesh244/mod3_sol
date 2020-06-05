@@ -4,8 +4,8 @@
         }
 
 .row-padding {
-            padding-left: 50px;
-            padding-right: 50px;
+            padding-left: 40px;
+            padding-right: 40px;
 }
 
         @media (min-width: 768px){
@@ -13,8 +13,8 @@
                 display: none;
             }
             .row-padding {
-                        padding-left: 25px;
-                        padding-right: 25px;
+                        padding-left: 20px;
+                        padding-right: 20px;
             }
         }
 .nav-link{
